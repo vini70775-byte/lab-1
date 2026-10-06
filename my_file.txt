@@ -1,1 +1,1 @@
-"This is my very first Git experiment."
+"this is my first git experiment." 
